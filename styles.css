@@ -8,10 +8,6 @@
   padding: 25px;
 }
 #profile-pic{
-  margin-top: 40px;
-  margin-bottom: 10px;
-  margin-right: 499px;
-  margin-left: 499px;
   font-size: 2em;
   text-align: center;
 }
@@ -55,10 +51,12 @@ body {
   font-size: 23px;
   font-family:cursive;
   line-height: 3.2;
-  padding: 40px;
+  padding: 20px;
+  margin-right: 200px;
+  margin-left: 200px;
   text-align: center;
   text-shadow: 0 0 3px #233f7d, 0 0 5px #97e3fa;
-  margin-bottom: 30px;
+  margin-bottom: 90px;
   background-color: rgba(130, 198, 241, 0);
   border: 4px double rgb(255, 230, 0);
 }
@@ -76,7 +74,7 @@ p {
   border: 2px dashed rgb(231, 68, 68);
   font-size: medium;
   font-family: Arial, Helvetica, sans-serif;
-  margin-top: 10px;
+  margin-top: 30px;
   margin-bottom: 10px;
   margin-right: 25px;
   margin-left: 25px;
@@ -118,10 +116,7 @@ h4 {
   height: 300px;
   overflow-y: auto;
   overflow-x: hidden;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 480px;
-  margin-left: 480px;
+  margin-left: 30%;
 }
 
 .profile-hobbies {
